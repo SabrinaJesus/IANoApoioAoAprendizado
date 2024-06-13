@@ -7,6 +7,6 @@ Nesta pesquisa objetiva-se responder como o uso de sistemas inteligentes pode ap
 
 ## Links relativos
 
-[Planilha desafios de programação](https://cefsaedu-my.sharepoint.com/:x:/g/personal/082190009_faculdade_cefsa_edu_br/ESKwd1JPSKlIjNObMHskA0kBotp1mVUbH-iC5OK1YGiGtg?e=h7c73z))
+[Planilha desafios de programação](https://cefsaedu-my.sharepoint.com/:x:/g/personal/082190009_faculdade_cefsa_edu_br/ESKwd1JPSKlIjNObMHskA0kBotp1mVUbH-iC5OK1YGiGtg?e=h7c73z)
 
 
